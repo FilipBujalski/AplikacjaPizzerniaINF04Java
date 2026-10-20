@@ -17,13 +17,6 @@
         <TextView
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="Aktywność 2 - Podsumowanie"
-            android:textColor="#FFFFFF"
-            android:textSize="12sp" />
-
-        <TextView
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
             android:text="Podsumowanie Zamówienia"
             android:textColor="#FFFFFF"
             android:textSize="20sp"
