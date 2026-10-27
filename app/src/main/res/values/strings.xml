@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">Pizzeria</string>
+    <string-array name="pizza_sizes">
+        <item>Mała 25 zł</item>
+        <item>Średnia 35 zł</item>
+        <item>Duża 45 zł</item>
+    </string-array>
 </resources>
